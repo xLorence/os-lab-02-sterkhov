@@ -1,0 +1,1 @@
+# os-lab-02-sterkhov
